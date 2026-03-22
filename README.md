@@ -24,7 +24,9 @@ Hey, I'm Francisco Manuel
 🔭 Learning about Machine Learning and Cybersecurity.
 🌟 Main languages: C/C++, Python, JavaScript and Bash.
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.usercontent.google.com/download?id=1TujW315YgwMC0srlpyLKIL4ZSgh6l1Kc&export=download&authuser=0&confirm=t&uuid=a2838059-61dd-49f2-9b16-f1976d48d043&at=AGN2oQ2-3iVxaLl8x5X-kPNWd06M:1774200866354" target="_blank">MY RESUME.</a>
+
 </pre>
+
 <hr>
 
 ## 🤝 Connect with me
@@ -58,7 +60,7 @@ Hey, I'm Francisco Manuel
 ### 💻 Software and Tools
 
 <p>
-    <a href="https://github.com/lxmfran"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
+    <a href="https://github.com/lxmfran"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://github.com/lxmfran"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/lxmfran"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 	<a href="https://github.com/lxmfran"><img alt="Matlab" src="https://skillicons.dev/icons?i=Matlab"></a>	
