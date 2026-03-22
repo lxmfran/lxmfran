@@ -28,13 +28,15 @@ Hey, I'm Francisco Manuel
 <hr>
 
 ## 🤝 Connect with me
+
 <p align="center">
-	<a href="mailto:franciscomms2005@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/francisco-manuel-moya-sanchez/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/lxmfran"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="mailto:franciscomms2005@gmail.com"><img img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/francisco-manuel-moya-sanchez/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+	<a href="https://github.com/lxmfran"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
+
 
 ### 👨‍💻 Programming Languages
 
@@ -43,7 +45,6 @@ Hey, I'm Francisco Manuel
     <a href="https://github.com/lxmfran"><img alt="Python" src="https://skillicons.dev/icons?i=python&theme=light"></a>
     <a href="https://github.com/lxmfran"><img alt="C" src="https://skillicons.dev/icons?i=c"></a>
 	<a href="https://github.com/lxmfran"><img alt="C++" src="https://skillicons.dev/icons?i=cpp"></a>
-	
 
 ### 🧰 Frameworks and Libraries
 
@@ -57,14 +58,14 @@ Hey, I'm Francisco Manuel
 ### 💻 Software and Tools
 
 <p>
-    <a href="https://github.com/lxmfran"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/lxmfran"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="https://github.com/lxmfran"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
     <a href="https://github.com/lxmfran"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/lxmfran"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	
+	<a href="https://github.com/lxmfran"><img alt="Matlab" src="https://skillicons.dev/icons?i=Matlab"></a>	
 </p>
 
 </br>
+
 
 <!--
 ### 👨🏽‍💻 Workspace
@@ -73,7 +74,6 @@ Hey, I'm Francisco Manuel
     <a href="https://github.com/Bouaskaoun"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 -->
-
 
 
 <!--
@@ -133,7 +133,7 @@ Hey, I'm Francisco Manuel
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:franciscomms2005@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:franciscomms2005@gmail.com"> contact me through email</a> me.
 <!--
 You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/francisco-manuel-moya-sanchez/">LinkedIn</a> to deploy your machine learning project on web.
 -->
