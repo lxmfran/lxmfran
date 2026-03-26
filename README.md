@@ -47,6 +47,7 @@ Hey, I'm Francisco Manuel
     <a href="https://github.com/lxmfran"><img alt="Python" src="https://skillicons.dev/icons?i=python&theme=light"></a>
     <a href="https://github.com/lxmfran"><img alt="C" src="https://skillicons.dev/icons?i=c"></a>
 	<a href="https://github.com/lxmfran"><img alt="C++" src="https://skillicons.dev/icons?i=cpp"></a>
+	<a href="https://github.com/lxmfran"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
 	<a href="https://github.com/lxmfran"><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
 
 ### 🧰 Frameworks and Libraries
