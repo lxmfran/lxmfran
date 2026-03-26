@@ -60,10 +60,10 @@ Hey, I'm Francisco Manuel
 ### 💻 Software and Tools
 
 <p>
-    <a href="https://github.com/lxmfran"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/lxmfran"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/lxmfran"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	<a href="https://github.com/lxmfran"><img alt="Matlab" src="https://skillicons.dev/icons?i=Matlab"></a>	
+    <a href="https://github.com/lxmfran"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
+    <a href="https://github.com/lxmfran"><img alt="Eclipse" src="https://skillicons.dev/icons?i=eclipse"></a>
+    <a href="https://github.com/lxmfran"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
+	<a href="https://github.com/lxmfran"><img alt="Matlab" src="https://skillicons.dev/icons?i=matlab"></a>	
 </p>
 
 </br>
