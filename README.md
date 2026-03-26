@@ -49,7 +49,7 @@ Hey, I'm Francisco Manuel
 	<a href="https://github.com/lxmfran"><img alt="C++" src="https://skillicons.dev/icons?i=cpp"></a>
 	<a href="https://github.com/lxmfran"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
 	<a href="https://github.com/lxmfran"><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
-
+<!--
 ### 🧰 Frameworks and Libraries
 
 <p>
@@ -58,6 +58,9 @@ Hey, I'm Francisco Manuel
     <a href="https://github.com/lxmfran"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://github.com/lxmfran"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
+-->
+
+
 
 ### 💻 Software and Tools
 
@@ -137,9 +140,9 @@ Hey, I'm Francisco Manuel
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:franciscomms2005@gmail.com"> contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:franciscomms2005@gmail.com"> contact me through email</a>.
 <!--
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/francisco-manuel-moya-sanchez/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.linkedin.com/in/francisco-manuel-moya-sanchez/">LinkedIn</a> to deploy your machine learning project on web.
 -->
   </td>
   <td width="50%" valign="top">
